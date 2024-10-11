@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FA24\\PRN231\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\employeeformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\employeeformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\employeeforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\employeeforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\companyforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\companyforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\data\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\data\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\data\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\data\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\employeeforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\employeeforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\companyforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\companyforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\dtos\\companyformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\dtos\\companyformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FA24\\PRN231\\demo\\demoAPI\\Migrations\\20241011030713_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:demoAPI\\Migrations\\20241011030713_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\data\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\data\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|c:\\fa24\\prn231\\demo\\demoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F28C07-E7C4-4827-B49C-DA94F0F207D6}|demoAPI\\demoAPI.csproj|solutionrelative:demoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "demoAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:47:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "demoAPI\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:47:20.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeForCreationDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForCreationDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\EmployeeForCreationDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForCreationDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\EmployeeForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:18:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeForManipulationDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForManipulationDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\EmployeeForManipulationDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForManipulationDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\EmployeeForManipulationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:18:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\CompanyDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\CompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:14:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Models\\Company.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Models\\Company.cs",
+              "RelativeToolTip": "demoAPI\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:56:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyForCreationDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForCreationDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\CompanyForCreationDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForCreationDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\CompanyForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:15:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Data\\CompanyConfiguration.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\CompanyConfiguration.cs",
+              "RelativeToolTip": "demoAPI\\Data\\CompanyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:01:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:31:35.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:33:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:34:02.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Data\\RepositoryContext.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\RepositoryContext.cs",
+              "RelativeToolTip": "demoAPI\\Data\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:02:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:30:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\IRepositoryManager.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\IRepositoryManager.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:34:31.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:34:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Program.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Program.cs",
+              "RelativeToolTip": "demoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:06:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\ICompanyRepository.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\ICompanyRepository.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:30:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "demoAPI\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:33:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "demoAPI\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:26:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyForUpdateDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForUpdateDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\CompanyForUpdateDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForUpdateDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\CompanyForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:17:47.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:18:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeForUpdateDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForUpdateDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\EmployeeForUpdateDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\EmployeeForUpdateDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\EmployeeForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:19:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyForManipulationDto.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForManipulationDto.cs",
+              "RelativeDocumentMoniker": "demoAPI\\DTOs\\CompanyForManipulationDto.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\DTOs\\CompanyForManipulationDto.cs",
+              "RelativeToolTip": "demoAPI\\DTOs\\CompanyForManipulationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:16:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "demoAPI\\LoggerManager.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\LoggerManager.cs",
+              "RelativeToolTip": "demoAPI\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:10:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "demoAPI\\ILoggerManager.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\ILoggerManager.cs",
+              "RelativeToolTip": "demoAPI\\ILoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:08:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241011030713_k.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Migrations\\20241011030713_k.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Migrations\\20241011030713_k.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Migrations\\20241011030713_k.cs",
+              "RelativeToolTip": "demoAPI\\Migrations\\20241011030713_k.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:07:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "demoAPI\\appsettings.json",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\appsettings.json",
+              "RelativeToolTip": "demoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T03:05:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Data\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Data\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "demoAPI\\Data\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:01:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\FA24\\PRN231\\demo\\demoAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "demoAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\FA24\\PRN231\\demo\\demoAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "demoAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:57:02.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
